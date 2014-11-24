@@ -9,7 +9,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Add Employee</title>
+<title>Add New Employee</title>
 <style type="text/css">
 	.Error {color:red; font-size:smaller;}
 </style>
