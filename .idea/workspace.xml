@@ -36,10 +36,11 @@
     </list>
     <ignored path="test_website.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="bd12738c-ae0e-4f0c-80f6-9c2d89f8a6f7" time="1416802566050" ignored="false" />
+    <file path="/Dummy.txt" changelist="bd12738c-ae0e-4f0c-80f6-9c2d89f8a6f7" time="1416806777423" ignored="false" />
     <file path="/ReadMe.html" changelist="bd12738c-ae0e-4f0c-80f6-9c2d89f8a6f7" time="1416800573987" ignored="false" />
     <file path="/SimpleLogin.php" changelist="bd12738c-ae0e-4f0c-80f6-9c2d89f8a6f7" time="1416800852072" ignored="false" />
     <file path="/README.md" changelist="bd12738c-ae0e-4f0c-80f6-9c2d89f8a6f7" time="1416801944264" ignored="false" />
+    <file path="/PreparedStatement.php" changelist="bd12738c-ae0e-4f0c-80f6-9c2d89f8a6f7" time="1416806805998" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,10 +87,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="24" selection-start="225" selection-end="225" vertical-scroll-proportion="0.34244603">
+            <state line="13" column="0" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PreparedStatement.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PreparedStatement.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="49" column="6" selection-start="870" selection-end="870" vertical-scroll-proportion="0.8470765">
               <folding />
             </state>
           </provider>
@@ -116,6 +126,7 @@
         <option value="$PROJECT_DIR$/ReadMe.html" />
         <option value="$PROJECT_DIR$/SimpleLogin.php" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/PreparedStatement.php" />
       </list>
     </option>
   </component>
@@ -152,7 +163,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -173,6 +183,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,13 +207,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17438868" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17696267" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -329,7 +340,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="225" selection-end="225" vertical-scroll-proportion="0.34244603">
+        <state line="14" column="24" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddEmployee.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="80" selection-start="1289" selection-end="1289" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="55" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PreparedStatement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="6" selection-start="870" selection-end="870" vertical-scroll-proportion="0.8470765">
           <folding />
         </state>
       </provider>
