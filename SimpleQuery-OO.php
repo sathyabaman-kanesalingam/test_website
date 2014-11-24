@@ -28,6 +28,8 @@ else
 		<th>Extension</th>
 	</tr>
 <?php
+
+//just for stash testing
 	while ($row = $result->fetch_assoc())
 	{
 		echo '<tr>';
