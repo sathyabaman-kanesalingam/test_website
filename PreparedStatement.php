@@ -2,6 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
+<meta description="just a description">
 <title>Prepared Statement</title>
 </head>
 <body>
