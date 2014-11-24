@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd12738c-ae0e-4f0c-80f6-9c2d89f8a6f7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/sathyabaman_kanes.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/Northwind.gif" afterPath="$PROJECT_DIR$/Images/Northwind.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/test_website.iml" afterPath="$PROJECT_DIR$/.idea/test_website.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AddEmployee.php" afterPath="$PROJECT_DIR$/AddEmployee.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EditEmployee.php" afterPath="$PROJECT_DIR$/EditEmployee.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Includes/EmployeeData.php" afterPath="$PROJECT_DIR$/Includes/EmployeeData.php" />
@@ -20,17 +21,25 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleLogin.php" afterPath="$PROJECT_DIR$/SimpleLogin.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleQuery-OO.php" afterPath="$PROJECT_DIR$/SimpleQuery-OO.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleQuery-Procedural.php" afterPath="$PROJECT_DIR$/SimpleQuery-Procedural.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Includes/fnDates.php" afterPath="$PROJECT_DIR$/Includes/fnDates.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Includes/fnFormPresentation.php" afterPath="$PROJECT_DIR$/Includes/fnFormPresentation.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Includes/fnFormValidation.php" afterPath="$PROJECT_DIR$/Includes/fnFormValidation.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Includes/fnStrings.php" afterPath="$PROJECT_DIR$/Includes/fnStrings.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Includes/init.php" afterPath="$PROJECT_DIR$/Includes/init.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/sathyabaman_kanes.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/sathyabaman_kanes.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="test_website.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="bd12738c-ae0e-4f0c-80f6-9c2d89f8a6f7" time="1416800397242" ignored="false" />
     <file path="/ReadMe.html" changelist="bd12738c-ae0e-4f0c-80f6-9c2d89f8a6f7" time="1416800573987" ignored="false" />
     <file path="/SimpleLogin.php" changelist="bd12738c-ae0e-4f0c-80f6-9c2d89f8a6f7" time="1416800852072" ignored="false" />
+    <file path="/README.md" changelist="bd12738c-ae0e-4f0c-80f6-9c2d89f8a6f7" time="1416801944264" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +89,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="120" selection-end="120" vertical-scroll-proportion="0.19568345">
+            <state line="13" column="0" selection-start="200" selection-end="200" vertical-scroll-proportion="0.31798562">
               <folding />
             </state>
           </provider>
@@ -292,7 +301,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="120" selection-end="120" vertical-scroll-proportion="0.19568345">
+        <state line="13" column="0" selection-start="200" selection-end="200" vertical-scroll-proportion="0.31798562">
           <folding />
         </state>
       </provider>
