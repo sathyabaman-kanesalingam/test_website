@@ -12,4 +12,4 @@ no need to add php tags to read me file
 
 edited in master for testing purpose
 
-commit to remote develop
+need to commit to develop from feature
