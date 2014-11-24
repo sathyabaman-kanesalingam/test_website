@@ -5,6 +5,7 @@
 <title>Login Page</title>
 </head>
 <body>
+<h1>Please enter your login creditionals and hit Enter! </h1>
 <?php
 	require 'Includes/Header.php';
 
